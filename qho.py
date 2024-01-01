@@ -15,6 +15,8 @@ class QuantumHarmonicOscillator:
 
     The nomenclature of variable names follows Atkins and de Paula Physical
     Chemistry 8th ed, pp. 290-297.
+
+    Atkins, P. W. & De Paula, J. Atkins’ Physical chemistry. (W.H. Freeman, 2006).
     """
 
     def __init__(self, mass_r, k):
