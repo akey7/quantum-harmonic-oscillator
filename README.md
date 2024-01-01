@@ -10,7 +10,7 @@ The following directions work for macOS. These instructions will be largely the 
 ```
 conda create -n quantum-harmonic-oscillator python=3.11
 conda activate quantum-harmonic-oscillator
-conda install jupyterlab matplotlib numpy
+conda install jupyterlab matplotlib numpy scipy
 ```
 
 ### Every other time you want to run the code
