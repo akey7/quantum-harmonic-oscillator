@@ -26,3 +26,7 @@ After you are done:
 ```
 conda deactivate
 ```
+
+## How to use
+
+See the `harmonic-oscillator-stills.ipynb` notebook for examples on how to use the `QuantumHarmonicOscillator` class.
