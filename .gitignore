@@ -166,5 +166,5 @@ cython_debug/
 intermediate/
 input/
 output/
-# *.png
+*.png
 *.mp4
